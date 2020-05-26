@@ -1,3 +1,4 @@
+# Taking input 
 a = input("Enter an alphabet: ")
 
 
