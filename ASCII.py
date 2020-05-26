@@ -1,4 +1,4 @@
-a = input("Enter a character: ")
+a = input("Enter an alphabet: ")
 
 
 
